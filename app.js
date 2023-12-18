@@ -1,6 +1,6 @@
 /** Simple web application displaying a random cat fact
  * at a click of a button by calling the cat fact API 
- * at https://catfact.ninja
+ * at https://catfact.ninja and a random cat image from thecatapi.com
  */
 
 const button = document.querySelector("#newFactButton");
